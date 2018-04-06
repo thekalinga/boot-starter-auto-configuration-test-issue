@@ -1,0 +1,3 @@
+rootProject.name = 'boot-starter-example'
+include ':greeting-service', ':greeting-service-starter', ':greeting-consumer'
+
